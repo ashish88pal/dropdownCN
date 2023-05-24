@@ -1,7 +1,7 @@
 # Dropdown in React
 ## Description
 This project is a dropdown implementation in React. The project is built using a tech stack consisting of ReactJS. For styling , CSS is used.
-  Click [here](https://dropdown-react-cn.netlify.app/) to try.
+  Click [here](https://dropdown-react-cn.netlify.app/) to try. Video link is [here](https://youtu.be/INCUEzDctlc)
 
 ## Tech stack
   ReactJS, CSS

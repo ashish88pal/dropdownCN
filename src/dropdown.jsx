@@ -26,7 +26,6 @@ function Dropdown({ selected, setSelected }) {
               className="dropdown-item"
               onClick={() => {
                 setSelected(option);
-
                 setIsActive(false);
               }}
             >
