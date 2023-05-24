@@ -22,10 +22,7 @@ This project is a dropdown implementation in React. The project is built using a
   $ nodemon index.js or npm start
   ```
 
- ## Screenshots
-  ![Screenshot 1](https://github.com/ashish88pal/habitTrackerReactCN/blob/27587310225a8fc1464f52aaa93c8b4baf870a09/src/screenshots/ss1.png?raw=true)
 
-  ![Screenshot 2](https://github.com/ashish88pal/habitTrackerReactCN/blob/27587310225a8fc1464f52aaa93c8b4baf870a09/src/screenshots/ss2.png?raw=true)
 
 
 
