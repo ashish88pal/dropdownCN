@@ -21,6 +21,12 @@ This project is a dropdown implementation in React. The project is built using a
   $ npm install
   $ nodemon index.js or npm start
   ```
+   ## Screenshots
+  ![Screenshot 1](https://github.com/ashish88pal/dropdownCN/blob/689dca86979e9ca6888fb449889f6afa4e29c1e1/screenshots/ss1.png?raw=true)
+
+  ![Screenshot 2](https://github.com/ashish88pal/dropdownCN/blob/689dca86979e9ca6888fb449889f6afa4e29c1e1/screenshots/ss2.png?raw=true)
+
+
 
 
 
